@@ -21,7 +21,7 @@ class App extends Component {
             "inputs": [{
                 "data": {
                     "image": {
-                        "url": {imgURL}}
+                        "url": {}}
                     }
                 }]
         });
